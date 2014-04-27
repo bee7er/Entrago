@@ -14,3 +14,5 @@ Launch Address Book application in a browser, e.g.:
 Landing page should be the Address Book, Book List page, see accompanying image
 
 Use navigation links to explore the address book.
+
+The database is MySQL and an export is included: addbook.sql.
