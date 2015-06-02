@@ -1,7 +1,9 @@
 entrago
 =======
 
-Entrago address book project in Symfony2
+Entrago address book project in Symfony2.  
+
+This project was written one weekend and submitted to the Entrago company as part of an interview process for a Symfony 2 development role.
 
 Unzip the accompanying folder into the Symfony src folder.
 
